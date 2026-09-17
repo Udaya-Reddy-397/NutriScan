@@ -1,5 +1,7 @@
 # 🍽️ NutriScan — AI-Powered Food Recognition & Calorie Tracker
 
+### 🌐 [Live Demo → nutriscan-o2ag.onrender.com](https://nutriscan-o2ag.onrender.com)
+
 > Snap a photo of your food, and NutriScan instantly identifies the dish and gives you detailed nutrition information — calories, protein, carbs, fat, and fiber — powered by deep learning.
 
 ---
@@ -177,6 +179,8 @@ Frontend runs at `http://localhost:5173`
 ---
 
 ## 🚀 Deployment
+
+🔗 **Live URL:** [https://nutriscan-o2ag.onrender.com](https://nutriscan-o2ag.onrender.com)
 
 Deployed on **Render** (free tier). The backend serves the frontend as static files from a single server.
 
